@@ -1,2 +1,9 @@
 .DS_Store
 *~
+*.v2
+*.pyc
+*.pb
+*.profile-empty
+*.gz
+*.txt
+*.h5
